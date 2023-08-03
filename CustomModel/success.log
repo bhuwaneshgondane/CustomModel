@@ -1,0 +1,26 @@
+INFO 2023-08-02 22:03:29,680 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 22:03:40,617 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 22:04:07,947 basehttp "POST /register/ HTTP/1.1" 201 367
+INFO 2023-08-02 22:04:19,975 basehttp "POST /access/ HTTP/1.1" 200 483
+INFO 2023-08-02 22:04:37,625 views Reterived the data
+INFO 2023-08-02 22:04:37,629 basehttp "GET /proj/ HTTP/1.1" 200 2150
+INFO 2023-08-02 22:04:47,188 views Record Added
+INFO 2023-08-02 22:04:47,190 basehttp "POST /proj/ HTTP/1.1" 201 248
+INFO 2023-08-02 22:08:36,566 autoreload C:\Users\BHUWANESH\Desktop\CJC Python\Project Task\NewCustom\CustomModel\projects\views.py changed, reloading.
+INFO 2023-08-02 22:08:42,785 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 22:08:48,188 autoreload C:\Users\BHUWANESH\Desktop\CJC Python\Project Task\NewCustom\CustomModel\projects\views.py changed, reloading.
+INFO 2023-08-02 22:08:48,909 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 22:09:05,987 autoreload C:\Users\BHUWANESH\Desktop\CJC Python\Project Task\NewCustom\CustomModel\projects\views.py changed, reloading.
+INFO 2023-08-02 22:09:06,822 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 22:09:10,638 autoreload C:\Users\BHUWANESH\Desktop\CJC Python\Project Task\NewCustom\CustomModel\projects\views.py changed, reloading.
+INFO 2023-08-02 22:09:11,436 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 22:09:15,268 autoreload C:\Users\BHUWANESH\Desktop\CJC Python\Project Task\NewCustom\CustomModel\projects\views.py changed, reloading.
+INFO 2023-08-02 22:09:16,302 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 22:09:24,338 autoreload C:\Users\BHUWANESH\Desktop\CJC Python\Project Task\NewCustom\CustomModel\projects\views.py changed, reloading.
+INFO 2023-08-02 22:09:25,154 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 22:09:27,849 autoreload C:\Users\BHUWANESH\Desktop\CJC Python\Project Task\NewCustom\CustomModel\projects\views.py changed, reloading.
+INFO 2023-08-02 22:09:28,771 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 22:09:31,620 autoreload C:\Users\BHUWANESH\Desktop\CJC Python\Project Task\NewCustom\CustomModel\projects\views.py changed, reloading.
+INFO 2023-08-02 22:09:32,421 autoreload Watching for file changes with StatReloader
+INFO 2023-08-02 22:09:35,135 autoreload C:\Users\BHUWANESH\Desktop\CJC Python\Project Task\NewCustom\CustomModel\projects\views.py changed, reloading.
+INFO 2023-08-02 22:09:35,931 autoreload Watching for file changes with StatReloader
